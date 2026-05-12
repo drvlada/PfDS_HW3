@@ -40,3 +40,4 @@ print(f"  Кількість додатних чисел  : {positive_numbers.si
 print(f"  Кількість від'ємних чисел : {np.sum(array < 0)}")
 print(f"  Кількість нулів (було)    : {np.sum(array == 0)}")
 print(f"  Середнє після обробки     : {mean_value:.2f}")
+
